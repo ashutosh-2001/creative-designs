@@ -4,6 +4,8 @@ This repo covers some of the creative designs that I have created as a group as 
 - The Poor Posture App Prototypes
 - Furniture Design
 - Virtual Currency
+
+Check out the case study on my portfolio: https://ashusharma.info/p/e335b56d/034d8ead
 ---
 
 # Poor Posture App
