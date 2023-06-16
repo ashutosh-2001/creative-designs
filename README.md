@@ -18,25 +18,3 @@ posture and maintaining healthy habits.
 Visual Design, and Information Architecture.
 - Collaborated within a team effectively to define and improve designs based on
 quantitative and qualitative data.
-
-
-
-
-
-
-
-
-----
-# Furniture Design
-- This is one of my designs that I created using Illustrator. It consisted of finding a solution for the lack of comfort and space regarding furniture in hospitals. I completed user research, conceptualized prototypes using visualization skills, and generated an innovative solution in redesigning the furniture using creative methods and design theory.
-- One of the observations I have made in a hospital is that visitors are unable to sit comfortably on a single sofa which is only available for one person. Visitors usually stay for a long period of time when visiting patients and they are forced to sit in a small space or stand up with other visitors. It is also difficult for them to sit next to a patient on a bed because there isn’t enough space available.
-
-<img src="sofa_design.png" width="100%" height="100%">
-
-----
-
-# Virtual Currency Design
-
-- This project was created using Photoshop and Illustrator to conceptualize the design of a virtual currency that plays a role in a fictional world. It involved analyzing case studies of design practitioners, creatively expressing ideas, and researching topics regarding digital currencies.
-
-<img src="virtual_currency.png" width="80%" height="80%">
