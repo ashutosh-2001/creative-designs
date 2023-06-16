@@ -19,12 +19,6 @@ Visual Design, and Information Architecture.
 - Collaborated within a team effectively to define and improve designs based on
 quantitative and qualitative data.
 
-<img src="poor_posture_app_designs/main-menu.png" width="60%" height="40%">
-<img src="poor_posture_app_designs/changes-main-menu.png">
-<img src="poor_posture_app_designs/posture-reminder.png" width="90%" height="60%">
-<img src="poor_posture_app_designs/timer-design.png" width="60%" height="60%">
-<img src="poor_posture_app_designs/urgent-notifications.png" width="60%" height="60%">
-<img src="poor_posture_app_designs/settings-menu.png" width="70%" height="60%">
 
 
 
